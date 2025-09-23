@@ -1,0 +1,15 @@
+17:22:56.425 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\swami\eclipse-workspace\OpencartV121\master.xml"
+17:22:56.636 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\swami\eclipse-workspace\OpencartV121\master.xml
+
+17:23:05.393 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:23)oggger - *** Starting TC001_AccountRegistrationTest *** 
+17:23:05.572 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:29)oggger - Clicked on my account link
+17:23:06.288 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:32)oggger - Clicked on register link
+17:23:06.292 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:35)oggger - Providing customer details
+17:23:07.861 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:47)oggger - Validating expected message..
+17:23:07.925 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:67)oggger - *** Finished TC001_AccountRegistrationTest ***
+16:54:48.671 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\swami\eclipse-workspace\OpencartV121\master.xml"
+16:54:48.898 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\swami\eclipse-workspace\OpencartV121\master.xml
+
+16:55:00.390 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:18)oggger - ***Starting TC002_LoginTest*** 
